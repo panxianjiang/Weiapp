@@ -9,13 +9,13 @@
   "window": {
     "backgroundTextStyle": "light",
     "navigationBarBackgroundColor": "#fff",
-    "navigationBarTitleText": "WeChat",
+    "navigationBarTitleText": "中国移动地王营业厅",
     "navigationBarTextStyle": "black"
   },
   "tabBar": {
     "color": "#6e6d6b",
-    "selectedColor": "#e64340",
-    "borderStyle": "white",
+    "selectedColor": "#1296db",
+    "borderStyle": "#ccc",
     "backgroundColor": "#fff",
     "box-shadow": "0 0 6px 0",
     "list": [
